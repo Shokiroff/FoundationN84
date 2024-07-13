@@ -1,0 +1,1 @@
+print("Umar aka doskaga qarang ertaga tushunmay jiglab yurmang")
