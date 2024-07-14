@@ -1,0 +1,22 @@
+Git- bu jamoaviy masofadan ishlashga moslashgan loyhaning nomi.
+Git loyihani amalga oshirish uchun git itin funksiyasidan foyda
+laniladi.
+git config- git repozitoriya (loyiha) uchun sozlamalar ko'rish
+va o'rnatish imkonini beradi.
+git config user.name - git loyiha uchun biriktirilgan foydalanuv
+chi nomini ko'rish va o'zgaritirish.
+git config user.mail-git repozitoriya uchun foydalanuvchi elek
+tron pochtasini ko'rish.
+git config --list - git repozitoriya uchun sozlamalar ro'yxatini
+ko'rish.
+git config --global user.mail - git repozitoriya uchun foydala
+nuvchi email adresini o'rnatish.
+git status- get repozitoriya uchun joriy holatni korish.
+git commit -m -git repozitoriya uchun comment yozish.
+git log -git repozitoriyadagi uzgarishlarni tekshirish.
+git branch - git loyida nechta branch mavjudligini tekshirish.
+git switch - git loyining joriy branchini boshqa branchga o'z
+gartirish.
+git add . - git loyidagi barcha o'zgarishlarni qo'shish.
+git pull origin master- git bashdagi faylni get hub ga joylash.
+
