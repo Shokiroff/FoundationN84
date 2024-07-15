@@ -1,0 +1,1 @@
+print("Bugun ob-havo juda ham ajoyib bo'lmoqda !!! ")
